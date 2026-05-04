@@ -1,0 +1,16 @@
+store_id,store_name,city,pincode,size_sqft,open_date,manager_name,manager_phone
+NS001,NorthStar Andheri,Mumbai,400053,4200,2019-03-15,Rajesh Kumar,+91-9746317213
+NS002,NorthStar Bandra,Mumbai,400050,3800,2020-07-22,Priya Sharma,7478163327
+NS003,northstar powai,Mumbai,400076,3100,2021-01-10,Amit Patel,+91 70819 46048
+NS004,NorthStar Thane ,Mumbai,400601,4500,2018-11-05,Neha Singh,+91-8051802512
+NS005,NorthStar Connaught Place,Delhi,110001,5200,2017-06-12,Vikram Reddy,7958682846
+NS006,NorthStar Saket,Delhi,110017,3900,2019-09-28,Anjali Desai,+91 74572 23434
+NS007,NorthStar Rohini,Delhi,110085,3200,2020-12-15,Suresh Iyer,+91-9906402157
+NS008,NorthStar Dwarka,Delhi,110075,3600,2021-04-03,Kavita Joshi,9342331444
+NS009,NorthStar Indiranagar,Bangalore,560038,4100,2018-08-19,Rohit Verma,+91 72848 87397
+NS010,NorthStar Koramangala,Bangalore,560034,4400,2019-02-26,Meera Nair,+91-8812140441
+NS011,NorthStar Whitefield,Bangalore,560066,3700,2020-10-11,Arjun Mehta,7136505587
+NS012,NorthStar HSR Layout,Bangalore,560102,3300,2021-08-07,Pooja Rao,+91 70976 22280
+NS013,NorthStar Kothrud,Pune,411038,3500,2019-05-14,Sandeep Gupta,+91-7939042955
+NS014,NorthStar Hinjewadi,Pune,411057,4000,2020-03-21,Divya Menon,7999270936
+NS015,NorthStar Camp,Pune,411001,2900,2021-11-08,Karthik Nair,+91 86559 88907
