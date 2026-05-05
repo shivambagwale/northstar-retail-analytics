@@ -64,3 +64,4 @@ CREATE TABLE inventory_snapshots (
     FOREIGN KEY (store_id) REFERENCES stores(store_id),
     FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
+created initial normalized database schema
