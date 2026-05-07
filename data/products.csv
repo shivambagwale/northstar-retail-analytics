@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,unit_price,unit_cost,brand,launch_date
+P0001,WIRELESS EARBUDS PRO,Electronics,Electronics - Value,2499,1699.26,EcoLine,2021-03-27
+P0002,Bluetooth Speaker X10,Electronics,Electronics - Premium,3299,2315.11,EcoLine,2021-11-27
+P0003,Smart Watch Lite,Electronics,Electronics - Standard,4999,2851.64,NorthStar,2022-01-05
+P0004,Power Bank 20000mAh,Electronics,Electronics - Value,1499,1043.22,NorthStar,2022-02-14
+P0005,USB-C CHARGER 65W,Electronics,Electronics - Standard,1899,1283.21,Premium,2021-01-28
+P0006,hdmi cable 2m,Electronics,Electronics - Premium,399,242.54,Generic,2020-07-25
+P0007,Wireless Mouse,Electronics,Electronics - Standard,799,465.44,Generic,2023-10-04
+P0008,Mechanical Keyboard,Electronics,Electronics - Premium,3499,2350.72,Premium,2024-02-02
+P0009,Webcam HD,Electronics,Electronics - Value,2199,1616.44,Premium,2021-03-25
+P0010,Phone Stand Adjustable,Electronics,Electronics - Premium,599,356.89,BrandPlus,2022-04-01
+P0011,Cotton T-Shirt Round Neck,Apparel,Apparel - Standard,599,434.44,Generic,2023-09-04
+P0012,Slim Fit Jeans,Apparel,Apparel - Premium,1499,867.28,Generic,2023-02-23
+P0013,Formal Shirt White,Apparel,Apparel - Standard,1299,866.05,Generic,2020-10-10
+P0014,casual polo  ,Apparel,Apparel - Value,899,514.16,Generic,2023-10-25
+P0015,hooded sweatshirt,Apparel,Apparel - Value,1799,1347.85,BrandPlus,2023-02-07
+P0016,track pants,Apparel,Apparel - Value,999,685.66,BrandPlus,2023-08-05
+P0017,Ethnic Kurta,Apparel,Apparel - Value,1199,660.23,BrandPlus,2022-10-22
+P0018,Saree Cotton Blend,Apparel,Apparel - Value,2499,1686.98,Premium,2023-06-01
+P0019,Womens Top,Apparel,Apparel - Value,799,591.82,,2023-05-11
+P0020,mens blazer,Apparel,Apparel - Standard,3999,2902.25,Generic,2020-04-28
+P0021,Basmati Rice 5kg  ,Grocery,Grocery - Premium,599,417.13,Premium,2020-09-14
+P0022,TOOR DAL 1KG,Grocery,Grocery - Standard,189,124.73,Premium,2023-05-27
+P0023,Sunflower Oil 1L,Grocery,Grocery - Premium,159,110.66,BrandPlus,2022-03-28
+P0024,Wheat Atta 10kg,Grocery,Grocery - Premium,449,293.43,Generic,2021-04-05
+P0025,SUGAR 1KG  ,Grocery,Grocery - Value,49,32.38,Generic,2020-01-15
+P0026,TEA PREMIUM 500G,Grocery,Grocery - Premium,299,178.14,BrandPlus,2020-05-25
+P0027,Coffee Powder 200g,Grocery,Grocery - Value,249,163.8,Premium,2023-03-26
+P0028,Salt 1kg,Grocery,Grocery - Premium,25,14.7,EcoLine,2021-12-26
+P0029,Mustard Oil 1L,Grocery,Grocery - Value,199,136.25,NorthStar,2020-05-04
+P0030,Ghee Pure 500ml,Grocery,Grocery - Premium,399,239.29,Premium,2022-07-07
+P0031,BEDSHEET DOUBLE COTTON,Home,Home - Premium,1299,834.64,EcoLine,2023-02-01
+P0032,PILLOW SET OF 2,Home,Home - Premium,799,525.84,NorthStar,2021-04-29
+P0033,Curtain Long 7ft,Home,Home - Premium,999,629.58,Generic,2022-02-15
+P0034,DOOR MAT,Home,Home - Standard,299,219.86,BrandPlus,2022-05-16
+P0035,Storage Box Plastic,Home,Home - Standard,449,306.39,Generic,2021-01-23
+P0036,Kitchen Towel Set,Home,Home - Value,349,229.8,BrandPlus,2020-04-27
+P0037,WALL CLOCK,Home,Home - Value,699,512.98,,2020-04-26
+P0038,led bulb 9w,Home,Home - Value,149,99.68,Generic,2022-04-06
+P0039,FLOOR CLEANER 1L,Home,Home - Value,179,107.26,NorthStar,2023-06-22
+P0040,BATH TOWEL,Home,Home - Standard,599,397.16,BrandPlus,2021-02-22
+P0041,Face Wash Vitamin C,Beauty,Beauty - Value,249,143.47,BrandPlus,2022-07-25
+P0042,Body Lotion 200ml  ,Beauty,Beauty - Value,299,191.86,NorthStar,2020-05-30
+P0043,Shampoo 340ml,Beauty,Beauty - Premium,349,216.31,Generic,2022-01-26
+P0044,Conditioner 200ml,Beauty,Beauty - Value,279,170.33,Premium,2020-01-17
+P0045,Lipstick Matte,Beauty,Beauty - Premium,499,284.79,BrandPlus,2020-08-24
+P0046,Kajal Long-lasting,Beauty,Beauty - Premium,199,120.66,BrandPlus,2021-02-20
+P0047,Sunscreen SPF50,Beauty,Beauty - Premium,449,269.5,NorthStar,2023-07-23
+P0048,Moisturizer 100ml  ,Beauty,Beauty - Value,399,280.99,BrandPlus,2020-11-26
+P0049,Hair Oil 200ml,Beauty,Beauty - Premium,199,109.83,Generic,2023-01-22
+P0050,PERFUME EDP 50ML,Beauty,Beauty - Standard,1499,990.1,Generic,2020-03-26
